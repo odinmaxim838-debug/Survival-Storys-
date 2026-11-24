@@ -11,7 +11,7 @@ Neue Themen unten anhängen. Reihenfolge darf der Nutzer jederzeit ändern.
 - [x] 1 How Rome REALLY Fell (Part 1) – 2026-11-22
 - [x] 2 The Empire That Refused to Die (Part 2, Byzanz) – 2026-11-22
 - [x] 3 Napoleon Wasn't Short (Napoleon Part 1, Cliffhanger: "Did they shoot?") – 2026-11-23
-- [ ] 4 Napoleon Part 2: What the soldiers did at Laffrey (1815), the Hundred Days, Waterloo, exile to St Helena. Löst den Cliffhanger aus Folge 3 auf.
+- [x] 4 Napoleon Part 2: What the soldiers did at Laffrey (1815), the Hundred Days, Waterloo, exile to St Helena. Löst den Cliffhanger aus Folge 3 auf. – 2026-11-24
 - [ ] 5 WW1: How a wrong turn started World War 1 (Sarajevo 1914, the driver's wrong turn, the sandwich myth debunked)
 - [ ] 6 WW1: The Christmas Truce of 1914
 - [ ] 7 The Mongol Empire: the largest connected land empire ever, and how it fell apart
