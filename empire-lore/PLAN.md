@@ -25,7 +25,7 @@ Neue Themen unten anhängen. Reihenfolge darf der Nutzer jederzeit ändern.
 
 - **Länge:** 38–48 Sekunden, 9:16 (1080×1920), 30 fps, fertig mit Ton.
 - **Sprache:** Englisch. Lockerer, schneller, aufgeregter Erzähler.
-- **Stil:** Strichmännchen + Karten im Papier-Look (wie Folge 1–3), Wort-für-Wort-Untertitel.
+- **Stil:** Strichmännchen + Karten im NEON-Look (ab Folge 4; Folge 1-3 waren Paper). Neue Projekte mit --style neon rendern (stills, sheet, video, mux). Leuchtende Linien auf dunklem Grund: Stills prüfen, ob Text/Untertitel lesbar und Karten erkennbar sind. Wort-für-Wort-Untertitel.
 - **Ton:** Stimme + Soundeffekte (Schläge auf Schnitten, Kamerawackeln bei Treffern). Leise, passende Hintergrundmusik ist erlaubt (im Code synthetisiert, z. B. dunkle Streicher/Pauken; deutlich leiser als die Stimme und unter der Stimme geduckt). Die Stimme muss immer klar verständlich bleiben.
 - **Freigabe:** Der Nutzer hat erlaubt, dass Skript und Video ohne Rückfrage erstellt und veröffentlicht werden; er kontrolliert regelmäßig selbst.
 - **Hook:** Sofort in den ersten 2 Sekunden, mitten in der Situation, mit Soundeffekt.
